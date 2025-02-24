@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- External PE has later version number -->
+<!DOCTYPE foo [
+<!ENTITY % pe SYSTEM "/resources/xmlconf_eduni_xml-1.1_002.pe">
+%pe;
+]>
+<foo/>
